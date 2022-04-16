@@ -1,0 +1,20 @@
+[
+	{
+	"role": "personal-info",
+	"firstName": "Eusbéio",
+	"lastName": "Simango",
+	"acceptedName": "Eusébio Simango",
+	"fullName": "Eusébio Armando dos Santos Simango",
+	"dateOfBirth": {
+			"day": 28,
+			"month": "March",
+			"year": 2005
+		}
+	},
+	{
+		"role": "social-media",
+		"email": "eusebiosimango14@gmail.com",
+		"github": "https://github.com/EusebioSimango/",
+		"facebook": "https://facebook.com/eusebio.simango.1"
+	}
+]
