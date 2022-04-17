@@ -1,11 +1,11 @@
 [
 	{
-	"role": "personal-info",
-	"firstName": "Eusbéio",
-	"lastName": "Simango",
-	"acceptedName": "Eusébio Simango",
-	"fullName": "Eusébio Armando dos Santos Simango",
-	"dateOfBirth": {
+		"role": "personal-info",
+		"firstName": "Eusbéio",
+		"lastName": "Simango",
+		"acceptedName": "Eusébio Simango",
+		"fullName": "Eusébio Armando dos Santos Simango",
+		"dateOfBirth": {
 			"day": 28,
 			"month": "March",
 			"year": 2005
